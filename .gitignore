@@ -30,6 +30,7 @@ autom4te.cache
 
 /ltmain.sh
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # http://www.gnu.org/software/texinfo
 =======
@@ -41,6 +42,10 @@ autom4te.cache
 # http://www.gnu.org/software/texinfo
 >>>>>>> bd5c043 (Initial commit)
 >>>>>>> 0f962af (WIP on main-2)
+=======
+
+# http://www.gnu.org/software/texinfo
+>>>>>>> b49e827 (Initial commit)
 
 /texinfo.tex
 
