@@ -29,6 +29,7 @@ autom4te.cache
 # https://www.gnu.org/software/libtool/
 
 /ltmain.sh
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -50,6 +51,14 @@ autom4te.cache
 =======
 9bd392a28cfd2baacf69efe87443bd896b89d5ba
 9bd392a28cfd2baacf69efe87443bd896b89d5ba# http://www.gnu.org/software/texinfo
+>>>>>>> Stashed changes
+=======
+
+# http://www.gnu.org/software/texinfo
+<<<<<<< Updated upstream
+>>>>>>> origin/main
+=======
+>>>>>>> b49e827 (Initial commit)
 >>>>>>> Stashed changes
 
 /texinfo.tex
